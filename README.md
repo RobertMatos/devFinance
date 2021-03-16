@@ -1,4 +1,3 @@
-# Dev-Finance
  <h1 align="center">
  <img src="./readme.img/logo.svg" alt="Logo dev Finance" width="200"/>
  </h1>
