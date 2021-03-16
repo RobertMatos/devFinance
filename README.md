@@ -3,8 +3,6 @@
  <img src="./readme.img/logo.svg" alt="Logo dev Finance" width="200"/>
  </h1>
 
----
-<h1 align="center">dev.Finance$</h1>
 
 <p align="center">🚀 Aplicação web para controle financeiro</p>
 
