@@ -1,29 +1,30 @@
- 
  <h1 align="center">
- <img src="./readme.img/logo.svg" alt="Logo dev Finance" width="200"/>
+    <img src="./readme.img/logo.svg" alt="Logo dev Finance" width="200"/>
  </h1>
-
 
 <p align="center">🚀 Aplicação web para controle financeiro</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Made%20with-JavaScript-brightgreen" alt="tecnologies"/>
-<img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license"/>
-<img src="https://img.shields.io/badge/dev-Robert-brightgreen" alt="dev"/>
+    <img src="https://img.shields.io/badge/Made%20with-JavaScript-brightgreen" alt="tecnologies"/>
+    <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license"/>
+    <img src="https://img.shields.io/badge/dev-Robert-brightgreen" alt="dev"/>
 </p>
 
 <div align="center">
-<a href="#-tecnologias">Tecnologias</a> |
-  <a href="#-projeto">Projeto</a> |
-  <a href="#-layout">Layout</a> |
-  <a href="#memo-licença">Licença</a> |
-  <a href="#-creditos">Creditos</a>
+    <a href="#-projeto-final">Projeto Final</a> |
+    <a href="#-tecnologias">Tecnologias</a> |
+    <a href="#-projeto">Projeto</a> |
+    <a href="#-layout">Layout</a> |
+    <a href="#memo-licença">Licença</a> |
+    <a href="#-creditos">Creditos</a>
 </div>
 
 ## Projeto Final
+
 > Netlify: https://devfinance-robert.netlify.app/
+
 <p align="center">
-  <img src="./readme.img/dinherio-moedas.gif" alt="Devfinance gif" />
+    <img src="./readme.img/dinherio-moedas.gif" alt="Devfinance gif" />
 </p>
 
 ## 🚀 Tecnologias
@@ -49,4 +50,5 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ## 🏆 Creditos
+
 Feito por mim junto com a [Rocketseat](https://github.com/Rocketseat)
