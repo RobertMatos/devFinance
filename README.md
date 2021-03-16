@@ -1,6 +1,6 @@
 # Dev-Finance
  <h1 align="center">
- <img src="./assets/logo.svg" alt="Logo dev Finance" width="200"/>
+ <img src="./readme.img/logo.svg" alt="Logo dev Finance" width="200"/>
  </h1>
 
 ---
@@ -17,7 +17,8 @@
 <div align="center">
 <a href="#-tecnologias">Tecnologias</a> |
   <a href="#-projeto">Projeto</a> |
-  <a href="#-licença">Licença</a> |
+  <a href="#-layout">Layout</a> |
+  <a href="#memo-licença">Licença</a> |
   <a href="#-creditos">Creditos</a>
 </div>
 
