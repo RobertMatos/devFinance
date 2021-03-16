@@ -42,5 +42,5 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## Creditos
+## 🏆 Creditos
 Feito por mim junto com a [Rocketseat](https://github.com/Rocketseat)
