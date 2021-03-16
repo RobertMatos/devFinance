@@ -24,7 +24,7 @@
 > Netlify: https://devfinance-robert.netlify.app/
 
 <p align="center">
-    <img src="./readme.img/dinherio-moedas.gif" alt="Devfinance gif" />
+    <img src="./readme.img/dinheiro-moedas.gif" alt="Devfinance gif" />
 </p>
 
 ## 🚀 Tecnologias
